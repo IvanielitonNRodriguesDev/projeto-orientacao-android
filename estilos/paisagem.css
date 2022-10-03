@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* Aparelho em paisagem (landscape) */
+
+body{
+    background: url(../imagem/xgo-landscape.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+h1{
+    text-align: center;
+    padding-top: 5px;
+}

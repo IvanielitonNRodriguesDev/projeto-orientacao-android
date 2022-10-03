@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* Aparelho em retrato (portrait) */
+
+body{
+    background: url(../imagem/xgo-portrait.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+h1{
+    text-align: center;
+    padding-top: 120px;
+}
